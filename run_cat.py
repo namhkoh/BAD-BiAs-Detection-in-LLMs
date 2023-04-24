@@ -1,8 +1,8 @@
 import os
 import openai
 
-auth = "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"
-openai.organization = "org-aCKugp3ReEBPzpuwXeH6ynkr"
+auth = "ADD API KEY"
+openai.organization = "ORG"
 openai.api_key = (auth)
 
 # Function to get the selected option from the OpenAI API
